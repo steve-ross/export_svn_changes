@@ -1,6 +1,6 @@
 This file is designed to export the files that were modified or added between two svn revisions.
-It will a corresponding zip file with the directory structure intact. Useful for when you need to
-push code but the server you are pushing to doesn't have access to your repository.
+It will create a corresponding zip file with the directory structure intact. 
+Useful for when the server you are pushing to doesn't have access to your repository.
 
 -- Recommendations
 	It is reccomended that you set this to executable and add it to your path in your .profile 
