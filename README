@@ -2,7 +2,7 @@ This file is designed to export the files that were modified or added between tw
 It will a corresponding zip file with the directory structure intact. Useful for when you need to
 push code but the server you are pushing to doesn't have access to your repository.
 
--- Reccomendations
+-- Recommendations
 	It is reccomended that you set this to executable and add it to your path in your .profile 
 	(otherwise you will have to copy it to each repo)
 
